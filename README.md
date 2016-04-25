@@ -18,4 +18,4 @@ Since this file has lots of information in it, ensure that you look for the type
 # Querying both
 The humdinger of this tool. Allows you to first query the students rankings for a specific projects, constrained by a minimum rank (you can chose to export to a file at this point, but chosing no will put the data in the second query either way) and then use that to construct a list of those students inventory stats for a specific item in the list. 
 
-# As always, feel free to pull this and change it or add to it to fit your needs. If you have a really helpful feature, don't hesitate # to add it to the tool!
+# As always, feel free to pull this and change it or add to it to fit your needs. If you have a really helpful feature, don't hesitate to add it to the tool!
